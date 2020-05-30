@@ -5,11 +5,11 @@ Is a secure way of communication (encrypted) that computers use to share files, 
 
 Uses of ssh:
 > Connecting to github: -clone, pull, push, etc.
-> Accessing remote computer: - connecting to computer at work while at home
+> Accessing remote computer: -connecting to computer at work while at home
 > Accessing a server: -setup and run app.
 
 How to ssh:
           ssh user@{host}
 -ssh > secure encrypted shell
 -user > account to access e.g root (system admin with rights to modify system)
--host > computer to access. you can use IP or DOMAIN NAME
+-host > computer to access. you can use IP ADDRESS or DOMAIN NAME
